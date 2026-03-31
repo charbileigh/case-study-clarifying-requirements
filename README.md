@@ -28,3 +28,13 @@ A user story was provided with insufficient details which resulted in:
 ## 1. Stakeholder Engagement
 * Conduct discussions with the Product Ownder and Stakeholders
 * Ask targetted clarification questions
+
+## 2. Process Mapping
+* Mapped the flow process for the profile updates
+* Identified decision points and exceptions
+
+## 3. Requirement Breakdown
+* Converted vague requirements into structured acceptance criteria
+* Identified edge cases and validation rules
+
+## 4. 
