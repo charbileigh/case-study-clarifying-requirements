@@ -1,0 +1,1 @@
+## This BPMN diagram was created to visualise system behaviour, validate requirements with stakeholders, and align development and QA teams before implementation.
