@@ -13,16 +13,16 @@ A user story was provided with insufficient details which resulted in:
     - Increased risk for mis-interpretation and implementation
     - Potential Sprint delays
 
-    ### Initial User Story Before Refinement
+    Initial User Story Before Refinement
         - As a user, I want to update my profile so that my information is correct
 
-        ### Issues I identified
-            - What fields can be updated?
-            - Are there validation rules?
-            - Is there an approval process?
-            - What happens on failure?
-            - What happens on success?
-            - Are there any login requirements?
+    Issues I identified
+        - What fields can be updated?
+        - Are there validation rules?
+        - Is there an approval process?
+        - What happens on failure?
+        - What happens on success?
+        - Are there any login requirements?
 
 ## Approach
 ## 1. 
