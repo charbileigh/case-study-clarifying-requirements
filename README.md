@@ -44,7 +44,8 @@ A user story was provided with insufficient details which resulted in:
 ## Newly Refined User Story
 
     Refined user story
-        - As a user, I want to update my profile details (name, email, phone number), so that my personal information remains secure.
+        - As a user, I want to update my profile details (name, email, phone number), 
+          so that my personal information remains secure.
 
     Acceptance Criteria
         Scenario: Successful profile update
