@@ -38,3 +38,9 @@ A user story was provided with insufficient details which resulted in:
 * Identified edge cases and validation rules
 
 ## 4. 
+
+
+## Author
+- [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
+
+Made with love ❤︎❤︎❤︎
