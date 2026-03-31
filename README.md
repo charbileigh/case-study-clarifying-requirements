@@ -37,8 +37,39 @@ A user story was provided with insufficient details which resulted in:
 * Converted vague requirements into structured acceptance criteria
 * Identified edge cases and validation rules
 
-## 4. 
+## 4. Collaboration with Developers
+* Walked through the flow with the development team
+* Ensured that there's a shared understanding of the flow and requirements before implementation
 
+## Newly Refined User Story
+
+    Refined user story
+        - As a user, I want to update my profile details (name, email, phone number), so that my personal information remains secure.
+
+    Acceptance Criteria
+        Scenario: Successful profile update
+        Given the user is logged in  
+        When the user updates valid profile details  
+        Then the system should save the changes successfully  
+
+        Scenario: Invalid email format  
+        Given the user enters an invalid email  
+        Then the system should display an error message  
+
+        Scenario: Required fields missing  
+        Given required fields are empty  
+        Then the system should prevent submission  
+
+        Scenario: System error  
+        Given a system failure occurs  
+        Then the user should receive an appropriate error message  
+
+## Overall Key Skills Demonstrated in this Case study
+* Requirements Analysis
+* Stakeholder Communication
+* Agile Delivery Support
+* Process Mapping
+* QA Thinking & Test Design
 
 ## Author
 - [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
