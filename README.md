@@ -25,4 +25,6 @@ A user story was provided with insufficient details which resulted in:
         - Are there any login requirements?
 
 ## Approach
-## 1. 
+## 1. Stakeholder Engagement
+* Conduct discussions with the Product Ownder and Stakeholders
+* Ask targetted clarification questions
